@@ -5,7 +5,7 @@ from agents import run_crew
 # Streamlit UI setup
 st.set_page_config(page_title="SEO Article Generator", page_icon="📝", layout="wide")
 
-st.title("📝 SEO Article Generator with CrewAI and Groq")
+st.title("📝 Welcome to your personalised article generator")
 st.markdown("""
 Welcome to the **SEO Article Generator**! Enter a topic below, and watch as our AI agents collaborate to produce a high-quality, SEO-optimized article.
 """)
